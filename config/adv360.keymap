@@ -49,11 +49,11 @@
 
         layer_keypad {
             bindings = <
- &trans          &trans                &trans                 &trans           &trans         &trans            &trans                                                   &mo 3  &kp C_PREVIOUS  &kp C_PLAY_PAUSE   &kp C_NEXT  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp PRINTSCREEN
- &trans       &kp EQUAL      &kp LEFT_BRACKET      &kp RIGHT_BRACKET         &kp PLUS      &kp MINUS            &trans                                                  &trans        &kp HOME     &kp PAGE_DOWN  &kp PAGE_UP            &kp END           &trans           &trans
- &trans  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp SEMICOLON            &trans  &trans  &trans   &none   &none  &trans  &trans  &trans        &kp LEFT          &kp DOWN       &kp UP          &kp RIGHT           &trans           &trans
- &trans          &trans               &kp DOT              &kp COMMA          &kp SQT         &trans             &none   &none  &trans   &none   &none  &trans   &none   &none          &trans            &trans       &trans             &trans           &trans           &trans
- &trans          &trans                &trans                 &trans           &trans                           &trans  &trans  &trans                  &trans  &trans  &trans                            &trans       &trans             &trans           &trans           &trans
+ &trans          &trans                &trans                 &trans           &trans         &trans            &trans                                                   &mo 3  &kp C_PREVIOUS  &kp C_PLAY_PAUSE     &kp C_NEXT  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp PRINTSCREEN
+ &trans       &kp EQUAL      &kp LEFT_BRACKET      &kp RIGHT_BRACKET         &kp PLUS      &kp MINUS            &trans                                                  &trans        &kp HOME     &kp PAGE_DOWN    &kp PAGE_UP            &kp END           &trans           &trans
+ &trans  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp SEMICOLON            &trans  &trans  &trans   &none   &none  &trans  &trans  &trans        &kp LEFT          &kp DOWN         &kp UP          &kp RIGHT           &trans           &trans
+ &trans          &trans               &kp DOT              &kp COMMA          &kp SQT         &trans             &none   &none  &trans   &none   &none  &trans   &none   &none          &trans            &trans         &trans             &trans           &trans           &trans
+ &trans          &trans                &trans                 &trans           &trans                           &trans  &trans  &trans                  &trans  &trans  &trans                            &trans  &kp RIGHT_ALT             &trans           &trans           &trans
             >;
         };
 
